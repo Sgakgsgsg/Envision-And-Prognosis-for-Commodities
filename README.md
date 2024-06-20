@@ -31,15 +31,14 @@ notebooks/: Jupyter notebooks with the model development and analysis.
 src/: Python scripts for data processing and model training.
 results/: Output files including model performance metrics and visualizations.
 README.md: This file, explaining the project.
+
 🧠 Technologies Used
 Python
 Pandas: Data manipulation and analysis.
 Scikit-learn: Linear Regression model implementation.
 TensorFlow/Keras: LSTM model development.
 Matplotlib/Seaborn: Data visualization.
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-📬 Contact
-If you have any questions or suggestions, feel free to reach out via Email or open an issue.
+
+
 
